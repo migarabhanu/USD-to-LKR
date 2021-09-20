@@ -1,6 +1,6 @@
 # Please consider this converter hasn't up-to-date.
-# Only updated in 6:40 PM of 9/9/2021.
-# CONSIDER 13/09/2021 DATE !!!
+# Only updated in 4:03 PM of 20/9/2021.
+# CONSIDER 20/09/2021 DATE !!!
 # Source - Google.com
 
 rupee = 200.19
