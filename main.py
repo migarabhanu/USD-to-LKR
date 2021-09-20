@@ -1,9 +1,8 @@
 # Please consider this converter hasn't up-to-date.
-# Only updated in 4:03 PM of 20/9/2021.
-# CONSIDER 20/09/2021 DATE !!!
-# Source - Google.com
+# Last updated · September 20, 9:30 AM GMT+5:30
+# Source - First Search Result on Bing - Data from Refinitiv
 
-rupee = 200.19
+rupee = 199.00
 
 ask_price = int(input(" Price in USD : "))
 answer = ask_price * rupee
